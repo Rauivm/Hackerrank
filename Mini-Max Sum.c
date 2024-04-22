@@ -9,6 +9,9 @@
 #include <stdlib.h>
 #include <string.h>
 
+//https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum/
+
+
 char* readline();
 char* ltrim(char*);
 char* rtrim(char*);
